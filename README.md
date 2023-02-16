@@ -1,6 +1,6 @@
 # CSE330: Operating Systems 
 
-Please follow the below steps to test your Project-4. 
+Please follow the below steps to test your Project-4.. 
 
 - Download the zip of this git repository.
 - Unzip the repository.
